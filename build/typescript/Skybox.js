@@ -112,4 +112,8 @@ exports.SkyboxPresets = {
         // from https://svs.gsfc.nasa.gov/3895
         textureUrl: '{{assets}}/skybox/nasa_tycho.jpg'
     }
+    FOOTPRINT: {
+    // from https://svs.gsfc.nasa.gov/3895
+    textureUrl: '{{assets}}/skybox/footprint.jpg',
+  },
 };
